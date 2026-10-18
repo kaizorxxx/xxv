@@ -1,1 +1,832 @@
-[]
+[
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-11T15:57"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-12T11:19"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 4,
+    "masa_aktif": "2027-10-12T12:01"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-12T12:46"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-12T15:03"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-12T20:38"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 7,
+    "masa_aktif": "2027-10-12T20:40"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-13T11:31"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-13T15:42"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-13T16:43"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-13T16:51"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 4,
+    "masa_aktif": "2027-10-13T16:54"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-13T18:22"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-13T18:43"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-13T22:44"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 6,
+    "masa_aktif": "2027-10-13T22:45"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-13T23:02"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-13T23:27"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-13T23:42"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-14T00:25"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-14T01:16"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 4,
+    "masa_aktif": "2027-10-14T01:19"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-14T02:42"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-14T06:21"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-14T06:29"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 5,
+    "masa_aktif": "2027-10-14T06:29"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-14T07:35"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-14T07:36"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-14T07:54"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 11,
+    "masa_aktif": "2027-10-14T08:22"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-14T08:38"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 7,
+    "masa_aktif": "2027-10-14T10:09"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-14T10:52"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-14T11:13"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 11,
+    "masa_aktif": "2027-10-14T11:59"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-14T14:08"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-14T15:05"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-14T16:44"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-15T04:18"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-15T05:04"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-15T06:17"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-15T07:02"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-15T07:17"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 9,
+    "masa_aktif": "2027-10-15T07:22"
+  },
+  {
+    "total_klaim": 3,
+    "api_service": 13,
+    "masa_aktif": "2027-10-15T07:40"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 7,
+    "masa_aktif": "2027-10-15T08:47"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 9,
+    "masa_aktif": "2027-10-15T08:49"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 4,
+    "masa_aktif": "2027-10-15T08:52"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-15T09:37"
+  },
+  {
+    "total_klaim": 3,
+    "api_service": 8,
+    "masa_aktif": "2027-10-15T09:44"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-15T09:53"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-15T10:31"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 8,
+    "masa_aktif": "2027-10-15T10:34"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-15T10:55"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-15T11:00"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 4,
+    "masa_aktif": "2027-10-15T11:06"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-15T11:18"
+  },
+  {
+    "total_klaim": 3,
+    "api_service": 9,
+    "masa_aktif": "2027-10-15T11:22"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 5,
+    "masa_aktif": "2027-10-15T11:28"
+  },
+  {
+    "total_klaim": 4,
+    "api_service": 11,
+    "masa_aktif": "2027-10-15T11:34"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 13,
+    "masa_aktif": "2027-10-15T11:44"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 15,
+    "masa_aktif": "2027-10-15T11:48"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 10,
+    "masa_aktif": "2027-10-15T12:18"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 13,
+    "masa_aktif": "2027-10-15T12:20"
+  },
+  {
+    "total_klaim": 3,
+    "api_service": 16,
+    "masa_aktif": "2027-10-15T12:21"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-15T12:44"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-15T13:01"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-15T13:11"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 8,
+    "masa_aktif": "2027-10-15T14:00"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-15T14:05"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 10,
+    "masa_aktif": "2027-10-15T14:11"
+  },
+  {
+    "total_klaim": 3,
+    "api_service": 7,
+    "masa_aktif": "2027-10-15T22:27"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-15T23:02"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-15T23:22"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-16T01:34"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 7,
+    "masa_aktif": "2027-10-16T03:59"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-16T04:30"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-16T05:04"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 8,
+    "masa_aktif": "2027-10-16T05:24"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-16T05:55"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 4,
+    "masa_aktif": "2027-10-16T05:59"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-16T06:09"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-16T06:38"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-16T08:55"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-16T09:09"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-16T09:13"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-16T10:28"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-16T10:48"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-16T11:12"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 7,
+    "masa_aktif": "2027-10-16T11:15"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-16T11:46"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-16T12:31"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 10,
+    "masa_aktif": "2027-10-16T12:41"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-16T12:55"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-16T13:07"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-16T13:26"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-16T13:42"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-16T13:53"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 11,
+    "masa_aktif": "2027-10-16T14:06"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-16T23:04"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-16T23:31"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-16T23:36"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 12,
+    "masa_aktif": "2027-10-17T02:23"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-17T02:36"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-17T03:33"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-17T04:35"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-17T04:38"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 4,
+    "masa_aktif": "2027-10-17T05:18"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-17T05:37"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-17T05:41"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-17T06:11"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 14,
+    "masa_aktif": "2027-10-17T06:32"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-17T06:40"
+  },
+  {
+    "total_klaim": 3,
+    "api_service": 6,
+    "masa_aktif": "2027-10-17T06:52"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-17T07:11"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-17T09:12"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 6,
+    "masa_aktif": "2027-10-17T09:48"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-17T10:28"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-17T10:44"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-17T11:37"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-17T12:32"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 7,
+    "masa_aktif": "2027-10-17T12:37"
+  },
+  {
+    "total_klaim": 3,
+    "api_service": 9,
+    "masa_aktif": "2027-10-17T12:43"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-17T13:16"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 6,
+    "masa_aktif": "2027-10-17T14:04"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-17T15:54"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 4,
+    "masa_aktif": "2027-10-17T16:00"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-17T16:44"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-17T19:50"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-17T22:18"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T01:16"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 12,
+    "masa_aktif": "2027-10-18T01:30"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T02:03"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 6,
+    "masa_aktif": "2027-10-18T02:25"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-18T02:34"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T04:00"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T04:06"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 6,
+    "masa_aktif": "2027-10-18T04:09"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 7,
+    "masa_aktif": "2027-10-18T04:59"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 6,
+    "masa_aktif": "2027-10-18T05:06"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T05:31"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-18T05:50"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 7,
+    "masa_aktif": "2027-10-18T06:04"
+  },
+  {
+    "total_klaim": 3,
+    "api_service": 13,
+    "masa_aktif": "2027-10-18T06:24"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T06:41"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T07:00"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 4,
+    "masa_aktif": "2027-10-18T07:03"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T07:17"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-18T07:21"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T07:33"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 4,
+    "masa_aktif": "2027-10-18T07:35"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T08:00"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-18T08:42"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-18T08:55"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-18T08:56"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-18T09:07"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-18T09:23"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 8,
+    "masa_aktif": "2027-10-18T09:24"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 7,
+    "masa_aktif": "2027-10-18T09:47"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T11:04"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T11:07"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 5,
+    "masa_aktif": "2027-10-18T13:05"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T13:23"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 7,
+    "masa_aktif": "2027-10-18T14:11"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-18T14:27"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 3,
+    "masa_aktif": "2027-10-18T14:42"
+  }
+]
