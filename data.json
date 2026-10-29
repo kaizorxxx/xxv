@@ -1787,6 +1787,61 @@
   {
     "total_klaim": 1,
     "api_service": 2,
+    "masa_aktif": "2027-10-29T11:24"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-29T11:25"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-29T11:30"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 4,
+    "masa_aktif": "2027-10-29T11:38"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-29T12:23"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
+    "masa_aktif": "2027-10-29T13:21"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 4,
+    "masa_aktif": "2027-10-29T13:23"
+  },
+  {
+    "total_klaim": 3,
+    "api_service": 6,
+    "masa_aktif": "2027-10-29T13:25"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 8,
+    "masa_aktif": "2027-10-29T13:29"
+  },
+  {
+    "total_klaim": 2,
+    "api_service": 10,
+    "masa_aktif": "2027-10-29T13:31"
+  },
+  {
+    "total_klaim": 3,
+    "api_service": 12,
+    "masa_aktif": "2027-10-29T13:35"
+  },
+  {
+    "total_klaim": 1,
+    "api_service": 2,
     "masa_aktif": "2027-10-29T20:54"
   },
   {
